@@ -17,12 +17,5 @@ Install Dependencies: Navigate to the project directory and install the required
 
 Run the App: Now, you can run the app on your connected device or emulator:
 
-**Screenshots**
-
-![Screenshot_20230909_141421](https://github.com/msamichael/Personal_Details_App/assets/69995532/a67af867-57a9-423d-8ec0-0497d8d37fd9)
-![Screenshot_20230909_141406](https://github.com/msamichael/Personal_Details_App/assets/69995532/9a354909-311e-4ce2-88c0-911add064ca3)
-
-
-
 **Packages**     
 webview_flutter
